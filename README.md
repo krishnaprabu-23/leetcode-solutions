@@ -5,12 +5,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0202-happy-number](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0141-linked-list-cycle](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -25,6 +27,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
