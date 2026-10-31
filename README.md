@@ -58,4 +58,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0461-hamming-distance](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0461-hamming-distance/) | Easy |
 <!---LeetCode Topics End-->
