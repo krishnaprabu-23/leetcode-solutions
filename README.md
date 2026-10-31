@@ -55,6 +55,7 @@
 | [0088-merge-sorted-array](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [0283-move-zeroes](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
@@ -77,6 +78,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
