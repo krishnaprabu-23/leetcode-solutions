@@ -47,6 +47,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0086-partition-list](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -84,4 +85,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
