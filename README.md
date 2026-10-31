@@ -14,11 +14,13 @@
 | [0036-valid-sudoku](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0242-valid-anagram](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0389-find-the-difference](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0242-valid-anagram](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -26,6 +28,7 @@
 | [0088-merge-sorted-array](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0389-find-the-difference](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +72,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0461-hamming-distance](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0461-hamming-distance/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
