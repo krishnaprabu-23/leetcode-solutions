@@ -25,6 +25,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0496-next-greater-element-i](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@
 | [0283-move-zeroes](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0496-next-greater-element-i](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,10 +122,12 @@
 | [0020-valid-parentheses](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
