@@ -68,6 +68,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@
 | [0392-is-subsequence](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0696-count-binary-substrings/) | Easy |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
