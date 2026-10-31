@@ -25,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
@@ -94,6 +95,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Monotonic Stack
@@ -172,4 +174,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
