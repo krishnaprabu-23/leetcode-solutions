@@ -32,6 +32,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0696-count-binary-substrings](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0696-count-binary-substrings/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0696-count-binary-substrings](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0696-count-binary-substrings/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
