@@ -12,6 +12,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0169-majority-element](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
@@ -26,6 +27,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
@@ -36,6 +38,7 @@
 | [0036-valid-sudoku](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
@@ -98,6 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0169-majority-element](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +118,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
