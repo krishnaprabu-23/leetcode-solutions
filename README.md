@@ -45,6 +45,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
@@ -55,6 +56,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
@@ -79,6 +81,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
