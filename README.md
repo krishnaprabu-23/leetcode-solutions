@@ -15,6 +15,7 @@
 | [0036-valid-sudoku](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0141-linked-list-cycle](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -76,6 +77,7 @@
 | [0141-linked-list-cycle](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -94,6 +96,7 @@
 | [0086-partition-list](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
