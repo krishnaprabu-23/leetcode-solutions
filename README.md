@@ -37,6 +37,11 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0086-partition-list](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0086-partition-list](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 <!---LeetCode Topics End-->
