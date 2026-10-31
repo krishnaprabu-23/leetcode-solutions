@@ -20,4 +20,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/krishnaprabu-23/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
